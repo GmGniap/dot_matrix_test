@@ -4,6 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
+        "iyi_bot စမ်းသပ်ခြင်း": "github:gmgniap/pxt-motor#d087e98ab038535f5d5aef8657c6fadc58b079ac"
     },
     "files": [
         "main.blocks",
